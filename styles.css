@@ -55,7 +55,7 @@ table {
 
 /*ROOT STYLES*/
 :root{
-    --font-header: caslonian-open-std-l, sans-serif;
+    --font-header: "caslonian-open-std-l", sans-serif;
     --font-body: 'Adobe Jenson', Arial, sans-serif;
 
     --yellow: #F0F7A3;
