@@ -56,7 +56,7 @@ table {
 /*ROOT STYLES*/
 :root{
     --font-header: "caslonian-open-std-l", sans-serif;
-    --font-body: 'Adobe Jenson', Arial, sans-serif;
+    --font-body: "adobe-jenson-pro-display", serif;
 
     --yellow: #F0F7A3;
     --dk-green: #162400;
@@ -80,10 +80,27 @@ table {
 body{
     min-width: 400px;
     margin: 0 auto;
-    font-family: var(--font-header);
+    font-family: var(--font-body);
+    font-size: 1rem;
     background-color: var(--yellow);
 }
 
 header{
     background-color: var(--purple);
+    font-family: var(--font-header);
+    padding: 1rem;
+}
+
+nav ul{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+h1{
+    font-size: 2rem;
+}
+
+a{
+    text-decoration: none;
+    color: var(--yellow);
 }
