@@ -104,3 +104,12 @@ a{
     text-decoration: none;
     color: var(--yellow);
 }
+
+main{
+    padding: 2rem;
+}
+
+footer{
+    background-color: var(--dk-green);
+    padding: 2rem;
+}
