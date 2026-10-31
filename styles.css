@@ -66,3 +66,24 @@ table {
     --box-shadow: -5px 5px 5px var(--dk-grey);
 	--hover-shadow: -3px 3px 6px var(--dk-grey);
 }
+
+/*GLOBAL STYLES (MOBILE FIRST)*/
+.sr-only {
+	position: absolute;
+	left: -10000px;
+	top: auto;
+	width: 1px;
+	height: 1px;
+	overflow: hidden;
+}
+
+body{
+    min-width: 400px;
+    margin: 0 auto;
+    font-family: var(--font-body);
+    background-color: var(--yellow);
+}
+
+header{
+    background-color: var(--purple);
+}
