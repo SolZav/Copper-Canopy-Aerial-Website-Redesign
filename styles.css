@@ -110,6 +110,7 @@ main{
 }
 
 footer{
+    margin-top: auto;
     background-color: var(--dk-green);
     color: var(--yellow);
 }
