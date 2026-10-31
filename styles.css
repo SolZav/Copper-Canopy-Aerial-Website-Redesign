@@ -111,5 +111,5 @@ main{
 
 footer{
     background-color: var(--dk-green);
-    padding: 2rem;
+    color: var(--yellow);
 }
