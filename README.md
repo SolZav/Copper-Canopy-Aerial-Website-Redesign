@@ -1,4 +1,6 @@
-<img width="223" height="136" alt="Stacked RGB" src="https://github.com/user-attachments/assets/6ce66b43-e15d-418e-ad25-dc41d3d0f560" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 300 250">
+<img width="180" height="150" alt="logo" src="https://github.com/user-attachments/assets/03ab7db8-1274-4ac2-af69-07911670f1eb" />
 
 # Using jQuery libraries to improve user experience, reducing site page count from 10 to 6. 
 
